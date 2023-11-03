@@ -1,0 +1,70 @@
+
+  {% extends "base.html" %}
+
+{% block content %}
+
+      <h1 class="mt-2 header">Trends</h1>
+    <div class=" mt-4 card-group">
+        
+        <div class="ml-2 card">
+        <img src="{{ url_for('static', filename='../static/gorseller/resim1.png') }}" class="card-img-top">
+
+
+          <div class="card-body">
+            <h5 class="mt-2 card-title"><a href="https://medium.com/basecs/hashing-out-hash-functions-ea5dd8beb4dd" target="_blank">Hashing Out Hash Functions</a></h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+        <div class="card">
+          <img src="{{ url_for('static', filename='../static/gorseller/resim2.png') }}" class="card-img-top">
+
+          <div class="card-body">
+            <h5 class="card-title"><a href="https://medium.com/basecs/bubbling-up-with-bubble-sorts-3df5ac88e592" target="_blank">Bubbling Up With Bubble Sorts</a></h5>
+            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+        <div class="mr-2 card">
+          <img src="{{ url_for('static', filename='../static/gorseller/resim4.png') }}" class="card-img-top">
+
+          <div class="card-body">
+            <h5 class="mt-2 card-title"><a href="https://medium.com/basecs/heapify-all-the-things-with-heap-sort-55ee1c93af82" target="_blank">Heapify All The Things With Heap Sort</a></h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div> 
+
+</div>
+<div class=" mt-4 card-group">
+        
+    <div class="ml-2 card">
+      <img src="{{ url_for('static', filename='../static/gorseller/resim5.webp') }}" class="card-img-top">
+      <div class="card-body">
+        <h5 class="mt-2 card-title"><a href="https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312" target="_blank" >Crafting Better Code Reviews</a></h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="{{ url_for('static', filename='../static/gorseller/resim6.webp') }}" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title"><a href="https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8" target="_blank">A Gentle Introduction To Graph Theory</a></h5>
+        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+    <div class="mr-2 card">
+      <img src="{{ url_for('static', filename='../static/gorseller/resim7.webp') }}" class="card-img-top">
+      <div class="card-body">
+        <h5 class="mt-2 card-title"><a href="https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d" target="_blank">Leaf It Up To Binary Trees</a></h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div> 
+
+</div>
+
+
+
+ {% endblock %}

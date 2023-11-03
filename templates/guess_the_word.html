@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess The Word</title>
+    <link rel="stylesheet" href="../static/games/guess_the_word.css"> 
+    
+</head>
+<body>
+    <div class="wrapper">
+    <h1>Guess The Word</h1> 
+    <div class="content">
+        <input type="text" class="typing-input" maxlength="1">
+        <div class="inputs"></div>
+        <div class="details">
+            <p class="hint">Hint: <span></span> </p>
+            <p class="guess-left">Remaining Guesses: <span></span></p>
+            <p class="wrong-letter">Wrong letters:<span></span></p>
+           
+      
+
+        </div>
+        <button class="reset-btn">Reset Game</button>
+   
+    </div>
+   
+
+    </div>
+    <div class="gif-section">
+    <img id="winGif" src="https://media.giphy.com/media/t3sZxY5zS5B0z5zMIz/giphy.gif" alt="Winning GIF" style="display: none;">
+    <img id="loseGif" src="https://media.giphy.com/media/KbZEMiWBFdynuQUobJ/giphy.gif" alt="Losing GIF" style="display: none;">
+</div>
+<script src="../static/games/words.js"></script>
+<script src="../static/games/guess_the_word.js"></script>
+   
+</body>
+</html>

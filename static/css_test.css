@@ -1,0 +1,98 @@
+*, *::before, *::after {
+    box-sizing: border-box; 
+  
+}
+
+
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee
+}
+
+#score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    font-size: 2em;
+    color: white;
+    text-shadow: 2px 4px 8px rgba(0, 0, 0, .5);
+    
+}
+
+body.correct {
+    background-color: #0e5135;
+}
+
+body.wrong{
+    background-color: #e5141e;
+}
+
+
+.container {
+    
+    background-color: #ddd;
+    border: 3px solid #cecacadd;
+    border-radius: 5px;
+    padding: 25px;
+    box-shadow: 0 0 10px 2px;
+
+}
+
+.btn-grid {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.btn {
+background-color: #7abde6;
+color: #f0fdff;
+border: 2px solid #0a75ad;
+padding: 8px 15px;
+border-radius: 5px;
+font-size: 18px;
+font-weight: 500;
+}
+
+.btn:hover{
+    border-color: black;
+}
+
+#question{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 22px;
+    color: #222d33;
+}
+.btn.correct{
+    background-color: #0e5135;
+}
+
+.btn.wrong{
+    background-color: #e5141e;
+}
+.start-btn, .next-btn {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hide {
+    display: none;
+  }

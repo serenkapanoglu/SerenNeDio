@@ -1,0 +1,46 @@
+
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class=" mt-4 mr-4 ml-4 row row-cols-1 row-cols-md-3">
+  <div class="col mb-4 ">
+    <div class="card">
+      <img src="../static/gorseller/html.png" class="card-img-top" alt="HTML">
+      <div class="card-body">
+        <h5 class="card-title"><a href="{{ url_for('html_test') }}" target="_blank">HTML</a></h5>
+        
+        <p class="card-text">Test your HTML knowledge.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="../static/gorseller/css2.png" class="card-img-top" alt="CSS">
+      <div class="card-body">
+        <h5 class="card-title"><a href="{{ url_for('css_test') }}" target="_blank">CSS</a></h5>
+        <p class="card-text">Test your CSS knowledge.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="../static/gorseller/js.webp" class="card-img-top" alt="Javascript">
+      <div class="card-body">
+        <h5 class="card-title"><a href="{{ url_for('javascript_test') }}" target="_blank">JAVASCRIPT</a></h5>
+          <p class="card-text">Test your Javascript knowledge.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="../static/gorseller/piton.svg" class="card-img-top" alt="Python">
+      <div class="card-body">
+        <h5 class="card-title"><a href="{{ url_for('python_test') }}" target="_blank">PYTHON</a></h5>
+          <p class="card-text">Test your Python knowledge.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
