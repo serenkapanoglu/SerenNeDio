@@ -14,11 +14,18 @@ Check out the live demo [here](https://your-barista-at-home.onrender.com/).
 ### Games
 
 <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.28%20AM.png" />
-**Memory Game:** Test your memory skills by matching pairs.
+
+- **Memory Game:** Test your memory skills by matching pairs.
+<img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.37.18%20AM.png" />
 
 - **Guess the Word Game:** Try to guess the hidden word.
+  <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.38.28%20AM.png" />
+  
 - **Meme Generator Game:** Have fun creating memes.
+  <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.36.26%20AM.png" />
+  
 - **Connect Four Game:** Play the classic Connect Four game.
+  <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.36.49%20AM.png" />
 
 ### Tests
 - **HTML Test:** Evaluate your HTML knowledge.
