@@ -23,10 +23,11 @@ Check out the live demo [here](https://javascript-collection.onrender.com/).
 - **Guess the Word Game:** Try to guess the hidden word.
   <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.38.28%20AM.png" />
    <br></br>
-   
+    <br></br>
+    
 - **Meme Generator Game:** Have fun creating memes.
   <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.36.26%20AM.png" />
-   <br></br>
+   <br></br><br></br>
    
 - **Connect Four Game:** Play the classic Connect Four game.
   <br></br>
