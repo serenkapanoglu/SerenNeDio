@@ -6,7 +6,10 @@ SerenNeDio is a web application that combines various features, including games,
 ## Live Demo
 Check out the live demo [here](https://javascript-collection.onrender.com/).
 
-
+## Tech Stack
+- Front End: HTML, CSS, Bootstrap, JavaScript
+- Back End: Python, Flask
+- Deployment: [Render](https://render.com/)
 ## Features
 <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.17%20AM.png" />
 <br></br>
@@ -65,10 +68,7 @@ Check out the live demo [here](https://javascript-collection.onrender.com/).
    <br></br>
    <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.40.22%20AM.png" />
 
-## Tech Stack
-- Front End: HTML, CSS, Bootstrap, JavaScript
-- Back End: Python, Flask
-- Deployment: [Render](https://render.com/)
+
 
 ## How to Run Locally
 1. Clone the repository: `https://github.com/serenkapanoglu/SerenNeDio.git`
