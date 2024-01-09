@@ -4,7 +4,7 @@
 SerenNeDio is a web application that combines various features, including games, tests, a weather app, and a to-do list. It's built using HTML, CSS, Bootstrap for the front end, and Python with Flask for the back end.
 
 ## Live Demo
-Check out the live demo [here](https://your-barista-at-home.onrender.com/).
+Check out the live demo [here](https://javascript-collection.onrender.com/).
 
 
 ## Features
