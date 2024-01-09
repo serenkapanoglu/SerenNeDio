@@ -32,6 +32,11 @@ Check out the live demo [here](https://your-barista-at-home.onrender.com/).
 - **CSS Test:** Test your CSS skills.
 - **JavaScript Test:** Assess your JavaScript proficiency.
 - **Python Test:** Check your knowledge of Python.
+  <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.38.39%20AM.png" />
+  <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.38.48%20AM.png" />
+  <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.38.57%20AM.png" />
+  <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.39.00%20AM.png" />
+  < img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.39.08%20AM.png" />
 
 ### Weather App
 - Get real-time weather information using a Weather API.
