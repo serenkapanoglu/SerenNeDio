@@ -11,7 +11,7 @@ Check out the live demo [here](https://javascript-collection.onrender.com/).
 <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.17%20AM.png" />
 <br></br>
 
-### Games
+## Games
 
 <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.28%20AM.png" />
   <br></br>
@@ -35,7 +35,7 @@ Check out the live demo [here](https://javascript-collection.onrender.com/).
   <br></br>
   <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.36.49%20AM.png" />
 
-### Tests
+## Tests
 - **HTML Test:** Evaluate your HTML knowledge.
 - **CSS Test:** Test your CSS skills.
 - **JavaScript Test:** Assess your JavaScript proficiency.
@@ -51,7 +51,7 @@ Check out the live demo [here](https://javascript-collection.onrender.com/).
    <br></br>
   <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.39.08%20AM.png" />
 
-### Weather App
+## Weather App
 - Get real-time weather information using a Weather API.
    <br></br>
    <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.39.24%20AM.png" />
@@ -60,7 +60,7 @@ Check out the live demo [here](https://javascript-collection.onrender.com/).
    
 
 
-### Todo App
+## Todo App
 - Create, edit, and delete your to-do list items.
    <br></br>
    <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.40.22%20AM.png" />
