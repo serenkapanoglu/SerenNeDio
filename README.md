@@ -6,12 +6,13 @@ SerenNeDio is a web application that combines various features, including games,
 ## Live Demo
 Check out the live demo [here](https://your-barista-at-home.onrender.com/).
 
-##
-<img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.17%20AM.png" />
-## Features
 
+## Features
+<img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.17%20AM.png" />
 ### Games
+<img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.28%20AM.png" />
 - **Memory Game:** Test your memory skills by matching pairs.
+
 - **Guess the Word Game:** Try to guess the hidden word.
 - **Meme Generator Game:** Have fun creating memes.
 - **Connect Four Game:** Play the classic Connect Four game.
