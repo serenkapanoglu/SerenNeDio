@@ -9,6 +9,7 @@ Check out the live demo [here](https://your-barista-at-home.onrender.com/).
 
 ## Features
 <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.17%20AM.png" />
+<br></br>
 ### Games
 <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.28%20AM.png" />
 - **Memory Game:** Test your memory skills by matching pairs.
