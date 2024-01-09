@@ -14,7 +14,7 @@ Check out the live demo [here](https://your-barista-at-home.onrender.com/).
 ### Games
 
 <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.35.28%20AM.png" />
- 
+  <br></br>
 - **Memory Game:** Test your memory skills by matching pairs.
 <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.37.18%20AM.png" />
  <br></br>
@@ -38,15 +38,20 @@ Check out the live demo [here](https://your-barista-at-home.onrender.com/).
 - **Python Test:** Check your knowledge of Python.
   <br></br>
   <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.38.39%20AM.png" />
+   <br></br>
   <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.38.48%20AM.png" />
+   <br></br>
   <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.38.57%20AM.png" />
+   <br></br>
   <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.39.00%20AM.png" />
+   <br></br>
   <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.39.08%20AM.png" />
 
 ### Weather App
 - Get real-time weather information using a Weather API.
    <br></br>
    <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.39.24%20AM.png" />
+    <br></br>
    <img src="https://github.com/serenkapanoglu/SerenNeDio/blob/main/images/Screen%20Shot%202024-01-09%20at%201.39.36%20AM.png" />
    
 
@@ -62,13 +67,13 @@ Check out the live demo [here](https://your-barista-at-home.onrender.com/).
 - Deployment: [Render](https://render.com/)
 
 ## How to Run Locally
-1. Clone the repository: `git clone https://github.com/your-username/your-barista-at-home.git`
-2. Navigate to the project directory: `cd your-barista-at-home`
+1. Clone the repository: `https://github.com/serenkapanoglu/SerenNeDio.git`
+2. Navigate to the project directory: `cd SerenNeDio`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the application: `python app.py`
 
 ## Deployment
-The project is deployed on [Render](https://render.com/). Check the live demo [here](https://your-barista-at-home.onrender.com/).
+The project is deployed on [Render](https://render.com/). 
 
 ## Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests. Follow the [contribution guidelines](CONTRIBUTING.md) for more details.
